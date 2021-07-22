@@ -5,4 +5,4 @@ check rebash commit1
 
 check rebash commit2
 
-check squash commit3
+check rebash commit3
